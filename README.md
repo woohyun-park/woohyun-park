@@ -1,4 +1,4 @@
-<p align="center"><img src="logo-top.png"></p>
+<center><img src="logo-top.png"></center>
 
 <!--
 **woohyun-park/woohyun-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
