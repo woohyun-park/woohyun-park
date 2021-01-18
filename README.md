@@ -1,5 +1,5 @@
 <p align="center"><img src="logo-top.png"></p>
-<p align="center"><img src="right__img.png" style="display:none;"></p>
+<div style="display:none;"><img src="right__img.png"></div>
 
 <!--
 **woohyun-park/woohyun-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
